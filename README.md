@@ -4,6 +4,7 @@ This repository provides a refuge for data related to extremism in the United St
 
 1. Tracing Racist Activism and Collective Entities (TRACE); Records geo-coded events by White Lives Matter, Patriot Front, and the Active Clubs; 2022 - Present.
 2. Conspiracies Online Data Archive (CODA); Records volume of online discourse related to specific conspiracies across multiple alternative social media platforms; 2021 - Present.
+3. Regressive Education Groups (REG); Records location and time active of TPUSA and M4L chapters, alongside type of group; 2021-2024.
 
 # Adapted
 
