@@ -11,6 +11,7 @@ Data collection archive
 # Adapted
 
 1. "Right-Wing Extremism" Armed Conflict Location and Event Data (ACLED); Filtered ACLED to include events attended by right-wing extremist groups; 2021 - Present.
+2. Geo-Coded Southern Poverty Law Center (SPLC) Hate Map; SPLC data on hate groups with county fips codes also coded; 2000 - 2023.
 
 
 
