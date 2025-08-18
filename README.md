@@ -1,4 +1,4 @@
-This repository provides a refuge for data related to extremism in the United States and Europe, and beyond. It includes 1) data I have collected, 2) publicly available data that I have expanded on or adapted to better serve my research agenda at time of use, and 3) links to external sources that are particularly aligned with the study of extremism. My hope is that others can use these data to pursue their own research questions and help further our collective understanding of ideologies, extremism, and violence.
+This repository provides a refuge for data related to political radicalism and extremism in the United States and Europe, and beyond. It includes 1) data I have collected, 2) publicly available data that I have expanded on or adapted to better serve my research agenda at time of use, and 3) links to external sources that are particularly aligned with the study of extremism. My hope is that others can use these data to pursue their own research questions and help further our collective understanding of ideologies, extremism, and violence.
 
 # Original
 
